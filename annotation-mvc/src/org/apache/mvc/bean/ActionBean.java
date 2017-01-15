@@ -1,4 +1,4 @@
-package com.yxm.mvc.bean;
+package org.apache.mvc.bean;
 
 public class ActionBean {
 

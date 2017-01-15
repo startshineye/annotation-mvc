@@ -1,4 +1,4 @@
-package com.yxm.mvc.util;
+package org.apache.mvc.util;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.yxm.mvc.servlet;
+package org.apache.mvc.servlet;
 
 public class ExampleServlet {
 
