@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="annotation-mvc"
+  id="myeclipse.1484460485294"
+  context-root="/annotation-mvc"
+  j2ee-spec="5.0"
+  archive="annotation-mvc.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
