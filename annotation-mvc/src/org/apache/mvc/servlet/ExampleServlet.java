@@ -65,7 +65,7 @@ public class ExampleServlet extends HttpServlet {
                 request.getRequestDispatcher(Config.PAGE_PREFIX + url + Config.PAGE_SUFFIX).forward(request, response);
             }
         } else {
-            logger.error("-----> 返回类型错误");
+        	log.error("-----> 返回类型错误");
 
         }
 
