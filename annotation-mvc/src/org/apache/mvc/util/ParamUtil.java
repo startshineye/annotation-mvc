@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletRequest;
  * @date 2017-1-15
  * 
  */
-public class Util {
+public class ParamUtil {
 	/**
 	 * 获取参数实体
 	 * 
